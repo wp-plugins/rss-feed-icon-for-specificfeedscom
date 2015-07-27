@@ -1,7 +1,7 @@
 === RSS Feed Icon for SpecificFeeds.com ===
 Contributors: Arthur Gareginyan
 Tags: specificfeeds.com, specificfeeds.com, icon, rss, feed
-Donate link: 
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8CZE2SPQWVLMU
 Requires at least: 3.9
 Tested up to: 4.2
 Stable tag: 1.1
@@ -70,7 +70,7 @@ All icons are the property of the [SpecificFeeds.com](http://www.specificfeeds.c
 
 **Support**
 
-* Did you enjoy this plugin? Please [donate to support ongoing development](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8). Your contribution would be greatly appreciated.
+* Did you enjoy this plugin? Please [donate to support ongoing development](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8CZE2SPQWVLMU). Your contribution would be greatly appreciated.
 * Do you have any ideas or suggestions to make the plugin better? I can’t wait to hear them! Please share! [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-rss-feed-icon-for-specificfeeds-com.html)
 
 **Please Vote and Enjoy**
