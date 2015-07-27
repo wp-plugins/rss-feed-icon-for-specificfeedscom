@@ -32,8 +32,8 @@ For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.c
 == Installation ==
 Install "RSS Feed Icon for SpecificFeeds.com" just as you would any other WP Plugin:
 
-1. Upload "RSS Feed Icon for SpecificFeeds.com" to the "/wp-content/plugins/" directory.
-2. Activate the plugin through the "Plugins" menu in WordPress.
+1. Upload "RSS Feed Icon for SpecificFeeds.com" to the "/wp-content/plugins/" directory.,
+2. Activate the plugin through the "Plugins" menu in WordPress.,
 3. Go to "Settings" -> "SpecificFeeds".
 
 [More help installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins "WordPress Codex: Installing Plugins")
